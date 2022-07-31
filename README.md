@@ -1,6 +1,6 @@
-- 👋 Olá, sou o Matheus Rodrigues
+- 👋 Olá, sou o Matheus Rodrigues!
 - 👀 Estou buscando conhecimento em desenvolvimento .lua focado no FiveM
-- 💞️ Se você tiver algo que possa me auxiliar na minha caminada 
+- 💞️ Se você tiver algo que possa me auxiliar na minha caminhada 
 - 📫 Discord: https://discord.gg/yeeMUPDpEj
 
 <!---
