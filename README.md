@@ -1,7 +1,7 @@
 - 👋 Olá, sou o Matheus Rodrigues
-- 👀 Estou buscando aprender mais sobre desenvolvimento .lua para FiveM
-- 💞️ I’m looking to collaborate on ...
-- 📫 Se você tiver algum para colaborar com meu estudo pode me chamar no discord
+- 👀 Estou buscando conhecimento em desenvolvimento .lua focado no FiveM
+- 💞️ Se você tiver algo que possa me auxiliar na minha caminada 
+- 📫 Discord: https://discord.gg/yeeMUPDpEj
 
 <!---
 D4rkG4merHD/D4rkG4merHD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
